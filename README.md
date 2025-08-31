@@ -55,6 +55,7 @@ StormScope is a real-time lightning strike monitoring system that uses a Python 
 Install dependencies:
 ```sh
 pip install requests websockets
+```
 
 Install the iPhone shortcut:
 - Find it here: 'https://www.icloud.com/shortcuts/551e8d410fff4227a68c5ad7513f8097'
