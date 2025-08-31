@@ -19,13 +19,15 @@ StormScope is a real-time lightning strike monitoring system that uses a Python 
   Google Apps Script for storing and retrieving the latest user location (`lat`, `lon`, `timestamp`).  
   - `doPost`: Updates the stored location.
   - `doGet`: Returns the latest location as JSON.
-  - Also found in: 'https://script.google.com/macros/s/AKfycbxLOtjk_znlYjxZFNIGfslz2UO5c3yYgSb2dWVpnHWBUd3UAc3zJhyCTqUrb1pHqGPH/exec'
+  - Also found in: 
+  'https://script.google.com/macros/s/AKfycbxLOtjk_znlYjxZFNIGfslz2UO5c3yYgSb2dWVpnHWBUd3UAc3zJhyCTqUrb1pHqGPH/exec'
 
 - [`NOTIFY_SCRIPT_URL.gs`](NOTIFY_SCRIPT_URL.gs):  
   Google Apps Script for storing and retrieving the latest lightning strike notification.  
   - `doPost`: Stores strike information.
   - `doGet`: Returns the latest strike info as JSON. Supports clearing the stored strike with `?clear=1`.
-  - Also found in: 'https://script.google.com/macros/s/AKfycbxKt0KiZWoxk6s3_CRhQpJHSaMu6I9FNXUsa1oKpP6grh5p1RVpaHhqFN-4BO5VKpMU/exec'
+  - Also found in: 
+  'https://script.google.com/macros/s/AKfycbxKt0KiZWoxk6s3_CRhQpJHSaMu6I9FNXUsa1oKpP6grh5p1RVpaHhqFN-4BO5VKpMU/exec'
 
 - [`README.md`](README.md):  
   Project documentation.
