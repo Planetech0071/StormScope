@@ -1,4 +1,4 @@
-# StormScope
+# ⚡ StormScope ⚡
 
 StormScope is a real-time lightning strike monitoring system that uses a Python client to listen for lightning strike data, calculates the distance to a user-defined location, and notifies a Google Apps Script web service when a strike occurs within a specified radius.
 
